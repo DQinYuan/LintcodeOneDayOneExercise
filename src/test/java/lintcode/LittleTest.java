@@ -9,7 +9,7 @@ public class LittleTest {
 
     @Test
     public void littleTest(){
-        System.out.println(Integer.MAX_VALUE);
+        System.out.println(1000000000 + 1000000000);
     }
 
 }
